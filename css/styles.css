@@ -53,14 +53,17 @@ p {
 }
 
 .profile p {
-    margin: auto 30% 40px 30%;
+    width: 50%;
+    margin: auto;
 }
 
 .contact-me {
-    margin: auto 25% auto 25%;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 5%;
 }
 
-.contact-me P {
+.contact-me p {
     margin-bottom: 5%;
 }
 
